@@ -1,0 +1,23 @@
+<snippet>
+	<content><![CDATA[
+switch(${1:/*opcion*/})
+{
+	case ${2:1}: 
+
+		break;
+	case ${3:2}: 
+
+		break;
+	case ${4:3}: 
+
+		break;
+	default:
+		break;	
+
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>switch</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
